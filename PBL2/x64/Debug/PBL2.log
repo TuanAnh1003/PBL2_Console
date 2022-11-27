@@ -1,0 +1,5 @@
+﻿  Manage.cpp
+D:\WorkSpace\PBL2\PBL2_demo\PBL2\PBL2\Manage.cpp(110): warning C4715: 'Manage::Import': not all control paths return a value
+D:\WorkSpace\PBL2\PBL2_demo\PBL2\PBL2\Manage.cpp(79): warning C4715: 'Manage::Search': not all control paths return a value
+D:\WorkSpace\PBL2\PBL2_demo\PBL2\PBL2\Manage.cpp(127): warning C4715: 'Manage::Export': not all control paths return a value
+  PBL2.vcxproj -> D:\WorkSpace\PBL2\PBL2_demo\PBL2\x64\Debug\PBL2.exe
